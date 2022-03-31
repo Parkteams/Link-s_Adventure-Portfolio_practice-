@@ -1,0 +1,4 @@
+﻿  Scene2.cpp
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/PROFILE' 사양으로 인해 무시됩니다.
+Light.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:REF' 사양으로 인해 무시됩니다.
+  WinAPI.vcxproj -> C:\Users\texte\OneDrive\공유 폴더\포폴\D3D11\x64\Debug\WinAPI.exe

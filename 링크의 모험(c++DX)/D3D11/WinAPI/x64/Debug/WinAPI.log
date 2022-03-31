@@ -1,0 +1,66 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(WinAPI-DESKTOP-QO3CB3I.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Light.cpp
+  ObImage.cpp
+  ObCircle.cpp
+  ObLine.cpp
+  ObRect.cpp
+  ObStar.cpp
+  SceneManager.cpp
+  Scene1.cpp
+  Scene2.cpp
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(2830,33): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(2841,33): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(2852,33): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(2863,33): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(2874,33): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(2885,33): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(2906,33): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(2917,33): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(2928,33): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(2939,33): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(2950,33): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(2961,33): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(2972,33): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3122,41): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3133,41): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3144,41): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3155,41): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3166,41): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3177,41): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3198,41): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3209,41): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3220,41): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3231,41): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3242,41): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3253,41): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3264,41): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3416,39): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3427,39): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3438,39): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3449,39): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3460,39): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3471,39): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3492,39): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3503,39): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3514,39): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3525,39): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3536,39): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3547,39): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\Scene\Scene2.cpp(3558,39): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Cam.cpp
+  Shader.cpp
+  Input.cpp
+  MainGame.cpp
+  Object.cpp
+  Timer.cpp
+  Texture.cpp
+  Sound.cpp
+  WinAPI.cpp
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\WinAPI.cpp(75,1): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\WinAPI.cpp(93,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\WinAPI.cpp(93,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\WinAPI.cpp(105,28): warning C4244: '=': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\WinAPI\WinAPI.cpp(106,29): warning C4244: '=': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/PROFILE' 사양으로 인해 무시됩니다.
+Light.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:REF' 사양으로 인해 무시됩니다.
+  WinAPI.vcxproj -> C:\Users\texte\Desktop\포폴\링크의 모험(c++DX)\D3D11\x64\Debug\WinAPI.exe

@@ -1,0 +1,40 @@
+//PLAYER
+    SOUND->AddSound("Sound/PLAYER/P_FIRE.wav", "PL_PSHOT", false);
+    SOUND->AddSound("Sound/PLAYER/R_FIRE.wav", "PL_RSHOT", false);
+    SOUND->AddSound("Sound/PLAYER/MG_FIRE.wav", "PL_MGSHOT", false);
+    SOUND->AddSound("Sound/PLAYER/GT_FIRE.wav", "PL_GTSHOT", false);
+    SOUND->AddSound("Sound/PLAYER/GT_FIRE1.wav", "PL_GTSHOT2", false);
+    SOUND->AddSound("Sound/PLAYER/FT_FIRE.wav", "PL_FTSHOT", true);
+    SOUND->AddSound("Sound/PLAYER/GT_EXPLODE.wav", "GT_EXPLODE", false);
+    SOUND->AddSound("Sound/PLAYER/DAMAGED.wav", "PL_DAMAGED", false);
+    SOUND->AddSound("Sound/PLAYER/DEATH.wav", "PL_DEATH", false);
+    SOUND->AddSound("Sound/PLAYER/WEAPON_CHANGE.wav", "PL_WEAPON_CHANGE", true);
+
+//ACS
+    SOUND->AddSound("Sound/ACS/DAMAGED.wav", "ACS_DAMAGED", false);
+    SOUND->AddSound("Sound/ACS/MOVE.wav", "ACS_MOVE", true);
+    SOUND->AddSound("Sound/ACS/SHOT.wav", "ACS_SHOT", false);
+
+//SNIPER
+    SOUND->AddSound("Sound/ENEMY/SNIPER_FIRE.wav", "SN_SHOT", false);
+    SOUND->AddSound("Sound/ENEMY/DEATH.wav", "SN_DEATH", false);
+
+//BAZOOKA
+    SOUND->AddSound("Sound/ENEMY/BAZOOKA_FIRE.wav", "BA_SHOT", false);
+    SOUND->AddSound("Sound/ENEMY/DEATH.wav", "BA_DEATH", false);
+
+//STORM
+    SOUND->AddSound("Sound/ENEMY/STORM_FIRE.wav", "ST_SHOT", false);
+    SOUND->AddSound("Sound/ENEMY/DEATH.wav", "ST_DEATH", false);
+
+//SOLDIER
+    SOUND->AddSound("Sound/ENEMY/SOLDIER_FIRE.wav", "SD_SHOT", false);
+    SOUND->AddSound("Sound/ENEMY/DEATH.wav", "SD_DEATH", false);
+
+//BGM
+    SOUND->AddSound("Sound/BGM/1.mp3", "BGM1", false);
+    SOUND->AddSound("Sound/BGM/2.mp3", "BGM2", false);
+    SOUND->AddSound("Sound/BGM/3.mp3", "BGM3", true);
+
+//COIN
+    SOUND->AddSound("Sound/NPC/COIN.wav", "COIN", false);
